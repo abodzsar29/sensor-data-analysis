@@ -1,4 +1,3 @@
-````markdown
 # Sensor Data Analysis
 
 ## Andrew Bodzsar - 08.2022
@@ -125,5 +124,5 @@ Because of that, the project cannot run successfully without replacing the place
 
 
 ```
-```
+
 
